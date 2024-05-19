@@ -1,0 +1,14 @@
+{
+  "name": "progeto_final_js_rayana_vitoria_barbosa_mendonca",
+  "version": "1.0.0",
+  "description": "trabalho de conclusao de materia",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000 test/**/*.test.js"
+  },
+  "author": "Rayana Vitoria Barbosa Mendonca",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
